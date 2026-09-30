@@ -79,10 +79,10 @@ export const usePayment = (shippingAddress?: AddressFormData) => {
       currency: 'INR',
       name: 'MediEaze',
       description: 'Medical Equipment Purchase',
-      image: '/favicon.ico',
+       image: '/favicon.ico',
       prefill: {
         name: shippingAddress?.fullName || '',
-        email: 'customer@example.com',
+        email: 'customer@medieaze.com',
         contact: '9548160990'
       },
       notes: {
