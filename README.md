@@ -56,47 +56,47 @@ To build a trusted healthcare equipment rental ecosystem where people can **find
 
 ```text
                  ┌─────────────────────┐
-                 │      Patient /      │
-                 │       Family        │
+                 │      Patient /          │
+                 │       Family            │
                  └──────────┬──────────┘
                             │
                             ▼
                   ┌──────────────────┐
-                  │ Browse Equipment │
+                  │ Browse Equipment.   │
                   └────────┬─────────┘
                            │
                            ▼
                    ┌───────────────┐
-                   │ Select & Book │
+                   │ Select & Book    │
                    └───────┬───────┘
                            │
                            ▼
                   ┌──────────────────┐
-                  │ Availability &   │
-                  │ Booking Confirm. │
+                  │ Availability &      │
+                  │ Booking Confirm.    │
                   └────────┬─────────┘
                            │
                            ▼
                  ┌────────────────────┐
-                 │ Door-to-Door       │
-                 │ Delivery           │
+                 │ Door-to-Door           │
+                 │ Delivery               │
                  └─────────┬──────────┘
                            │
                            ▼
                  ┌────────────────────┐
-                 │ Equipment Used by │
-                 │ Patient            │
+                 │ Equipment Used by.     │
+                 │ Patient                │
                  └─────────┬──────────┘
                            │
                            ▼
                  ┌────────────────────┐
-                 │ Pickup / Return    │
+                 │ Pickup / Return        │
                  └─────────┬──────────┘
                            │
                            ▼
                  ┌────────────────────┐
-                 │ Feedback & Quality │
-                 │ Check              │
+                 │ Feedback & Quality     │
+                 │ Check                  │
                  └────────────────────┘
 ```
 
@@ -181,21 +181,21 @@ MediEaze is envisioned as a platform connecting multiple stakeholders:
                        MEDIEAZE
                            │
           ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-      Patients        Healthcare        Equipment
-      & Families       Partners          Providers
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                  Equipment Availability
-                           │
-                           ▼
-                 Booking & Fulfillment
-                           │
-                           ▼
-                    Delivery / Pickup
+          │                   │                   │
+          ▼                  ▼                   ▼
+      Patients            Healthcare         Equipment
+      & Families           Partners          Providers
+          │                   │                  │
+          └────────────────┼───────────────┘
+                              │
+                              ▼
+                    Equipment Availability
+                              │
+                              ▼
+                    Booking & Fulfillment
+                              │
+                              ▼
+                      Delivery / Pickup
 ```
 
 ---
@@ -342,47 +342,47 @@ To build a trusted healthcare equipment rental ecosystem where people can **find
 
 ```text
                  ┌─────────────────────┐
-                 │      Patient /      │
-                 │       Family        │
+                 │      Patient /          │
+                 │       Family            │
                  └──────────┬──────────┘
+                              │
+                              ▼
+                  ┌──────────────────┐
+                  │ Browse Equipment.   │
+                  └────────┬─────────┘
+                             │
+                            ▼
+                   ┌───────────────┐
+                   │ Select & Book    │
+                   └───────┬───────┘
                             │
                             ▼
                   ┌──────────────────┐
-                  │ Browse Equipment │
+                  │ Availability &.     │
+                  │ Booking Confirm.    │
                   └────────┬─────────┘
-                           │
-                           ▼
-                   ┌───────────────┐
-                   │ Select & Book │
-                   └───────┬───────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │ Availability &   │
-                  │ Booking Confirm. │
-                  └────────┬─────────┘
-                           │
-                           ▼
+                            │
+                            ▼
                  ┌────────────────────┐
-                 │ Door-to-Door       │
-                 │ Delivery           │
+                 │ Door-to-Door           │
+                 │ Delivery               │
                  └─────────┬──────────┘
-                           │
-                           ▼
+                             │
+                             ▼
                  ┌────────────────────┐
-                 │ Equipment Used by │
-                 │ Patient            │
+                 │ Equipment Used by      │
+                 │ Patient                │
                  └─────────┬──────────┘
-                           │
-                           ▼
+                             │
+                             ▼
                  ┌────────────────────┐
-                 │ Pickup / Return    │
+                 │ Pickup / Return        │
                  └─────────┬──────────┘
-                           │
-                           ▼
+                             │
+                            ▼
                  ┌────────────────────┐
-                 │ Feedback & Quality │
-                 │ Check              │
+                 │ Feedback & Quality     │
+                 │ Check                  │
                  └────────────────────┘
 ```
 
@@ -467,21 +467,21 @@ MediEaze is envisioned as a platform connecting multiple stakeholders:
                        MEDIEAZE
                            │
           ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-      Patients        Healthcare        Equipment
-      & Families       Partners          Providers
-          │                │                │
+          │                   │                   │
+          ▼                  ▼                   ▼
+      Patients            Healthcare         Equipment
+      & Families           Partners          Providers
+          │                   │                   │
           └────────────────┼────────────────┘
-                           │
-                           ▼
-                  Equipment Availability
-                           │
-                           ▼
-                 Booking & Fulfillment
-                           │
-                           ▼
-                    Delivery / Pickup
+                              │
+                              ▼
+                    Equipment Availability
+                              │
+                              ▼
+                     Booking & Fulfillment
+                              │
+                              ▼
+                      Delivery / Pickup
 ```
 
 ---
