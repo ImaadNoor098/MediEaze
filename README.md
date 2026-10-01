@@ -85,7 +85,7 @@ To build a trusted healthcare equipment rental ecosystem where people can **find
                            │
                            ▼
                  ┌────────────────────┐
-                 │ Equipment Used by │
+                 │ Equipment Used by  │
                  │ Patient            │
                  └─────────┬──────────┘
                            │
