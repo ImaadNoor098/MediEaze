@@ -235,7 +235,7 @@ MediEaze is currently being developed as a healthcare-access startup concept, wi
 * [x] User journey definition
 * [x] Rental workflow design
 * [x] Market validation
-* [ ] MVP development
+* [x] MVP development
 * [ ] Equipment partner onboarding
 * [ ] Pilot launch
 * [ ] Customer feedback & iteration
